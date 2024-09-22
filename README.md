@@ -1,5 +1,6 @@
 # youtube_video_downloader
-youtube video downloader using danjo
+youtube video downloader using django
+
 
 <!DOCTYPE html> 
 <html> 
